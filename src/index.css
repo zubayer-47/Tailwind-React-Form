@@ -8,6 +8,6 @@
   }
 
   .input {
-    @apply text-gray-600 border-b border-gray-300 mt-2 bg-transparent focus:outline-none focus:border-indigo-500 h-5 p-1;
+    @apply text-gray-600 border-b border-gray-300 mt-2 bg-transparent focus:outline-none focus:border-indigo-500;
   }
 }
